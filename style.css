@@ -1,5 +1,13 @@
 
-body {background-color: bisque;}
+body {
+    background-color: bisque;
+}
 
-nav {background-color: brown;}
+nav {
+    background-color: brown;
+}
 
+p{
+    font-size: 20px;
+    color: blue;
+}
