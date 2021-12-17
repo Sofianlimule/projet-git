@@ -1,5 +1,11 @@
+body {
+    background-color: bisque;
+}
 
-body {background-color: bisque;}
+nav {
+    background-color: brown;
+}
 
-nav {background-color: brown;}
-
+ul{
+    display: flex;
+}
